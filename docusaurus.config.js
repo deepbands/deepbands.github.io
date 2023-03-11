@@ -68,7 +68,8 @@ const config = {
         title: 'deepbands',
         logo: {
           alt: 'deepbands logo',
-          src: 'img/logo.png',
+          src: 'img/logo_light.svg',
+          srcDark: 'img/logo_dark.svg',
         },
         items: [
           {
